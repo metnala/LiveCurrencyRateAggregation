@@ -1,0 +1,6 @@
+@LiveCurrencyRateAggregation_HostAddress = http://localhost:5104
+
+GET {{LiveCurrencyRateAggregation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
